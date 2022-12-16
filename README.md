@@ -2,8 +2,10 @@
 
 Native Account Manager
 
-Supported platforms:
-- Android 21+
+[![pub package](https://img.shields.io/pub/v/get.svg?label=get&color=blue)](https://pub.dev/packages/local_account_manager)
+[![popularity](https://img.shields.io/pub/popularity/get?logo=dart)](https://pub.dev/packages/local_account_manager/score)
+[![likes](https://img.shields.io/pub/likes/get?logo=dart)](https://pub.dev/packages/local_account_manager/score)
+[![pub points](https://img.shields.io/pub/points/sentry?logo=dart)](https://pub.dev/packages/local_account_manager/score)
 
 ## Result GIF
 ![](https://github.com/MrHafid/local_account_manager/blob/main/screenshots/rec_google_sign.gif)
