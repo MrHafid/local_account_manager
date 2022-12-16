@@ -16,17 +16,17 @@ Add package to your dependencies in **pubspec.yaml**:
 
  ```
 dependencies:
-   account_manager: ^0.0.1
+   local_account_manager: ^0.0.1
 ```
 
 And call `flutter pub get` to download new dependencies
 
 ### Using
 
-To import module add `import 'package:account_manager/account_manager.dart';` at the 
+To import module add `import 'package:local_account_manager/local_account_manager.dart';` at the 
 import block in your code.
 
-At this moment plugin can work with Android OS API 27+ and iOS 12+ only. To allow plugin to manage 
+At this moment plugin can work with Android OS API 27+ only. To allow plugin to manage 
 accounts you need to add few native code for Android:  
 
 1. Create **xml/authenticator.xml** resource in your Android project folder with next content:  
