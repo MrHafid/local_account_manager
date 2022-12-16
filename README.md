@@ -2,9 +2,9 @@
 
 Native Account Manager
 
-[![pub package](https://img.shields.io/pub/v/get.svg?label=get&color=blue)](https://pub.dev/packages/local_account_manager)
-[![popularity](https://img.shields.io/pub/popularity/get?logo=dart)](https://pub.dev/packages/local_account_manager/score)
-[![likes](https://img.shields.io/pub/likes/get?logo=dart)](https://pub.dev/packages/local_account_manager/score)
+[![pub package](https://img.shields.io/pub/v/local_account_manager.svg?label=local_account_manager&color=blue)](https://pub.dev/packages/local_account_manager)
+[![popularity](https://img.shields.io/pub/popularity/local_account_manager?logo=dart)](https://pub.dev/packages/local_account_manager/score)
+[![likes](https://img.shields.io/pub/likes/local_account_manager?logo=dart)](https://pub.dev/packages/local_account_manager/score)
 [![pub points](https://img.shields.io/pub/points/sentry?logo=dart)](https://pub.dev/packages/local_account_manager/score)
 
 ## Result GIF
