@@ -5,6 +5,9 @@ Native Account Manager
 Supported platforms:
 - Android 21+
 
+## Result GIF
+![](https://github.com/MrHafid/local_account_manager/blob/main/screenshots/rec_google_sign.gif)
+
 ## Getting Started
 
 ### Installation
