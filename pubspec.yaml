@@ -2,7 +2,7 @@ name: local_account_manager
 description: Account Manager with native android kotlin, 
   for use like popup google account and etc, 
   but for now support android only and set specific type account.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/MrHafid/local_account_manager
 
 environment:

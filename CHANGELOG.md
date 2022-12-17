@@ -4,4 +4,8 @@
 
 ## 0.0.2
 
-* fix minor bug
+* Fix minor bug
+
+## 0.0.3
+
+* Fix bug in example
